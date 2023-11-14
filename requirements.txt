@@ -1,0 +1,11 @@
+asgiref==3.7.2
+click==8.1.7
+colorama==0.4.6
+Django==4.2.7
+Pillow==10.1.0
+pyreadline3==3.4.1
+setuptools==68.2.2
+sqlparse==0.4.4
+svgwrite==1.4.3
+Tree==0.2.4
+tzdata==2023.3
