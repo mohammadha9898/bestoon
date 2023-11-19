@@ -118,6 +118,13 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
+
+
+site_key='6Lc1_BMpAAAAAGihjH7NTuE29z_WEMB_wiGizF2O'
+RECAPTCHA_SECRET_KEY = '6Lc1_BMpAAAAAA5L5oD4ecOpqtW0tfMyLzp9UgXY'
+POST_API_TOKEN=''
+
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
